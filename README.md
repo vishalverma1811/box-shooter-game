@@ -4,6 +4,7 @@
 ## `Tech Stack used`
 - Unity
 - c#
+- Microsoft Visual Studio
 ## `Description`
 -
 ---
