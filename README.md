@@ -6,7 +6,11 @@
 - c#
 - Microsoft Visual Studio
 ## `Description`
--
+- It consist of three type of boxes which gives following points on shooting:
+-   1. Yellow - 1 point
+-   2. Green -  10 points
+-   3.  White - 15 points
+- Duration of this game is 120 seconds, in which you have to score as much as you can.
 ---
 # Video Demo
 
